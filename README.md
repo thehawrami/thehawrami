@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thehawrami
-- 👀 I’m interested in buidling  projects that help people and provide best yeild of goood/effort. 
+- 👀 I’m interested in buidling  projects that help people and provide best yeild of good/effort. 
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on open source project for utilizing free time in most efficient manner.
 - 📫 How to reach me thehawrami@gmail.com
